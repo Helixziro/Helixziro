@@ -34,6 +34,7 @@ Roles:
   - AI/ML Engineer
   - Data Analyst
   - UI/UX Designer
+  - Business Analyst
 
 Currently Learning:
   - Advanced Backend Systems
