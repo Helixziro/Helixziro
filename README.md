@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Harshit%20%7C%20Helixziro&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Vishnu umar Sharma%20%7C%20Helixziro&fontSize=50&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
 
 # Hi there 👋 I'm Vishnu Kumar Sharma
 
